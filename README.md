@@ -1,0 +1,1 @@
+# antares-changelog-manager
